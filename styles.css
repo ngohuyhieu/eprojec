@@ -1,0 +1,25 @@
+body {
+
+    border: 1px #b1154a;
+
+
+
+
+}
+div.one{
+margin: auto;
+background-color: lightskyblue;
+
+}
+p.two {
+    margin-top: -6px;
+    color: deeppink;
+    font-size: x-large;
+}
+div.one.version2{
+    background-color: lightskyblue;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
